@@ -1,5 +1,5 @@
 # Citas_veterinarias_React
 Gestión de pacientes veterinarios
 
-Almacenar datos en el LocalStorage
-React (vite.js)
+-Almacenar datos en el LocalStorage
+-React (vite.js)
