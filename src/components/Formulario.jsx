@@ -153,7 +153,7 @@ export default function Formulario({ setPacientes, pacientes, paciente }) {
                     <textarea
                         id="sintomas"
                         className="border-2 w-full p-2 mt-2 rounded-md"
-                        placeholder="Editando GIt desde rocky linux 8"
+                        placeholder="Ingrese los sintomas"
                         value={sintomas}
                         onChange={(e) => setSintomas(e.target.value)}
                     />
